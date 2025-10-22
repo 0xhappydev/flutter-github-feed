@@ -2,8 +2,6 @@
 
 A Flutter application for viewing a rich feed of GitHub activity.
 
-An idea inspired by https://github.com/GroovinChip/GitHub-Activity-Feed
-
 ## Getting Started
 
 1. Create a personal access token on GitHub
